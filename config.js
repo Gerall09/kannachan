@@ -45,35 +45,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sig = 'https://instagram.com/rall_nation09'
+global.sgh = 'https://Gerall.github.io'
+global.sgc = 'https://chat.whatsapp.com/DQeeZf6Ri4t7HBEigOVi3V'
+global.sdc = 'https://chat.whatsapp.com/DQeeZf6Ri4t7HBEigOVi3V'
+global.snh = 'https://chat.whatsapp.com/DQeeZf6Ri4t7HBEigOVi3V'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = ''
+global.povo = ''
+global.pgopay = '088242147113'
+global.ppulsa = '085242838957'
+global.ppulsa2 = '088242147113'
+global.psaweria = 'https://saweria.com/Gerall'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6288242147113'
+global.nomorown = '6282196995322'
+global.namebot = 'WhanSaf'
+global.nameown = 'Gerall'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6285891214734', 'Donatur💵', true],
+  ['6282196995322', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6287894034440','6285871657460'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm = '                「 WhanSaf 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ WhanSaf ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ WhanSaf '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Geral`
+global.author = '                「 Geral  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
