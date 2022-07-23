@@ -125,9 +125,9 @@ global.author = '                「 Geral  あ⁩ 」'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/9960f328be97230d411ad.jpg' //Main Thumbnail
-global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
+global.imagebot = 'https://telegra.ph/file/16fd4170fba80653e3e2b.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/9960f328be97230d411ad.jpg']
+global.thumbs = ['https://telegra.ph/file/9960f328be97230d411ad.jpg','https://telegra.ph/file/b6e80325ba4750988d43b.jpg','https://telegra.ph/file/16fd4170fba80653e3e2b.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
@@ -158,7 +158,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/b6e80325ba4750988d43b.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = '*Kontolll Ngentoddd Luhhh Semuaaa Bajhingannn Nyahhhh Yahhh Metehhh*'
+global.stickauth = ``
 
 global.multiplier = 38 // The higher, The harder levelup
 
